@@ -2,7 +2,7 @@
 
 Student Name: Lei Gao
 
-Email address: lgao0047@gmail.com
+Email address: lgao0047@usc.edu
 
 How to invoke my  lab1.py file : (suppose that you already have python or Anaconda/ Jupin your computer)
 
